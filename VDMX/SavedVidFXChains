@@ -1,0 +1,4993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>favorites</key>
+	<dict>
+		<key>Favorite 1</key>
+		<array>
+			<string>1024</string>
+			<string>canopus</string>
+			<string>Chain 1</string>
+			<string>Layer 4</string>
+			<string>COLOR AND PERSPECTIVE</string>
+			<string>Layer 2</string>
+			<string>Layer 3</string>
+			<string>Meta Cam</string>
+			<string>WARP ET COLOR</string>
+		</array>
+	</dict>
+	<key>rawAssets</key>
+	<array>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>1024</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>VVColorControls</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>brightness</key>
+							<dict>
+								<key>val</key>
+								<real>0.61522632837295532</real>
+							</dict>
+							<key>contrast</key>
+							<dict>
+								<key>val</key>
+								<real>0.64300411939620972</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>QCFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>/Users/lois/Library/Application Support/VDMX/qcFX/_1024_Perspective.qtz</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>Bottom_Left</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.083798885345458984</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.15217319130897522</real>
+								</dict>
+							</dict>
+							<key>Bottom_Right</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.9329608678817749</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.14100000262260437</real>
+								</dict>
+							</dict>
+							<key>Radius</key>
+							<dict>
+								<key>val</key>
+								<real>0.012345679104328156</real>
+							</dict>
+							<key>Show_test_image</key>
+							<dict>
+								<key>val</key>
+								<false/>
+							</dict>
+							<key>Top_Left</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.061452515423297882</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.62077653408050537</real>
+								</dict>
+							</dict>
+							<key>Top_Right</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.96648043394088745</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.62077653408050537</real>
+								</dict>
+							</dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2011-05-04 11:14:18 +0200on layer: Group 1 in project: DDO.vdmx5</string>
+			<key>name</key>
+			<string>1024</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>3D Rotate.qtz</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>QCFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>/Users/lois/Library/Application Support/VDMX/qcFX/3D Rotate.qtz</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>x_rot</key>
+							<dict>
+								<key>val</key>
+								<real>0.0</real>
+							</dict>
+							<key>y_rot</key>
+							<dict>
+								<key>val</key>
+								<real>0.0</real>
+							</dict>
+							<key>z_rot</key>
+							<dict>
+								<key>val</key>
+								<real>0.0</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+				<string>basic</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>3D Rotate.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/3D Rotate.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>4 Spinner.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/4 Spinner.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>_1024_Perspective.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/_1024_Perspective.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Take video from a tap source and apply it to the alpha channel- this effect does NOT resize the mask image!  Resembles a lumakey.</string>
+			<key>name</key>
+			<string>Alpha Mask</string>
+			<key>resourceName</key>
+			<string>AlphaMask</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>ASCII Art.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/ASCII Art.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>A simple Bad TV effect</string>
+			<key>name</key>
+			<string>Bad TV.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Bad TV.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>BGSubstract-609.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>BGSubstract.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/BGSubstract.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>BlackAndWhite.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/BlackAndWhite.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Softens edges and applies a pleasant glow to an image.</string>
+			<key>name</key>
+			<string>Bloom</string>
+			<key>resourceName</key>
+			<string>CIBloom</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Blue Print.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Blue Print.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Blur.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Blur.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Blur</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Smooths or sharpens an image using a box-shaped convolution kernel.</string>
+			<key>name</key>
+			<string>Box Blur</string>
+			<key>resourceName</key>
+			<string>CIBoxBlur</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>A simple bright adjustment</string>
+			<key>name</key>
+			<string>Bright</string>
+			<key>resourceName</key>
+			<string>Bright</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>BUFFER SAMPLER.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>BufferVDMX.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Bulge.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Bulge.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates a concave or convex bump that originates at a specified point in the image.</string>
+			<key>name</key>
+			<string>Bump Distortion</string>
+			<key>resourceName</key>
+			<string>CIBumpDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates a bump that originates from a linear portion of the image.</string>
+			<key>name</key>
+			<string>Bump Distortion Linear</string>
+			<key>resourceName</key>
+			<string>CIBumpDistortionLinear</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>cam_out_interlace.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>canopus</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>FlipH</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>XYZoom</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>center</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.60526317358016968</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.18421052396297455</real>
+								</dict>
+							</dict>
+							<key>levelX</key>
+							<dict>
+								<key>val</key>
+								<real>0.057946838438510895</real>
+							</dict>
+							<key>levelY</key>
+							<dict>
+								<key>val</key>
+								<real>0.057946838438510895</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>LayerPosition</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>center</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.37368419766426086</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.52631580829620361</real>
+								</dict>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2011-05-06 19:27:41 +0200on layer: Layer 3 in project: DDO.vdmx5</string>
+			<key>name</key>
+			<string>canopus</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>Chain 1</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>VVColorControls</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>brightness</key>
+							<dict>
+								<key>val</key>
+								<real>0.61145073175430298</real>
+							</dict>
+							<key>contrast</key>
+							<dict>
+								<key>val</key>
+								<real>0.71197408437728882</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2011-05-02 18:49:02 +0200on layer: Layer 2 in project: DDO.vdmx5</string>
+			<key>name</key>
+			<string>Chain 1</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Modulate the R, G, and B values of the passed video image</string>
+			<key>name</key>
+			<string>Channel Slide</string>
+			<key>resourceName</key>
+			<string>ChannelSlide</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>A bad chroma mask.  It works in the RGB color space, so color matching is very poor</string>
+			<key>name</key>
+			<string>Chroma Mask</string>
+			<key>resourceName</key>
+			<string>ChromaMask</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Toneburst</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Zoom-levels for Red Green and Blue channels</string>
+			<key>name</key>
+			<string>Chroma Zoom.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Chroma Zoom.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>chronophotographie.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>chronovideographie_multi.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>chronovideographie_multi_yuv.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Distorts the pixels starting at the circumference of a circle and emanating outward.</string>
+			<key>name</key>
+			<string>Circle Splash Distortion</string>
+			<key>resourceName</key>
+			<string>CICircleSplashDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Halftone Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Simulates a circular-shaped halftone screen.</string>
+			<key>name</key>
+			<string>Circular Screen</string>
+			<key>resourceName</key>
+			<string>CICircularScreen</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Wraps an image around a transparent circle. The distortion of the image increases with the distance from the center of the circle.</string>
+			<key>name</key>
+			<string>Circular Wrap Distortion</string>
+			<key>resourceName</key>
+			<string>CICircularWrap</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>City Lights.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/City Lights.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Halftone Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates a color, halftoned rendition of the source image, using cyan, magenta, yellow, and black inks over a white page.</string>
+			<key>name</key>
+			<string>CMYK Halftone</string>
+			<key>resourceName</key>
+			<string>CICMYKHalftone</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>COLOR AND PERSPECTIVE</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>VVColorControls</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>brightness</key>
+							<dict>
+								<key>val</key>
+								<real>0.6213991641998291</real>
+							</dict>
+							<key>contrast</key>
+							<dict>
+								<key>val</key>
+								<real>0.70370370149612427</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>CIPerspectiveTransform</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>inputBottomLeft</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.03910614550113678</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.061452519148588181</real>
+								</dict>
+							</dict>
+							<key>inputBottomRight</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.9776536226272583</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.044692736119031906</real>
+								</dict>
+							</dict>
+							<key>inputTopLeft</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.044692736119031906</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.7821229100227356</real>
+								</dict>
+							</dict>
+							<key>inputTopRight</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.9776536226272583</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.7821229100227356</real>
+								</dict>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2011-05-04 13:26:31 +0200on layer: Group 1 in project: DDO.vdmx5</string>
+			<key>name</key>
+			<string>COLOR AND PERSPECTIVE</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Adjusts saturation, brightness, and contrast values.</string>
+			<key>name</key>
+			<string>Color Controls</string>
+			<key>resourceName</key>
+			<string>CIColorControls</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Color Controls.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Color Controls.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Inverts the colors in an image.</string>
+			<key>name</key>
+			<string>Color Invert</string>
+			<key>resourceName</key>
+			<string>CIColorInvert</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Color Invert.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Color Invert.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Performs a nonlinear transformation of source color values using mapping values provided in a table.</string>
+			<key>name</key>
+			<string>Color Map</string>
+			<key>resourceName</key>
+			<string>CIColorMap</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Remaps colors so they fall within shades of a single color.</string>
+			<key>name</key>
+			<string>Color Monochrome</string>
+			<key>resourceName</key>
+			<string>CIColorMonochrome</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Remaps red, green, and blue color components to the number of brightness values you specify for each color component. This filter flattens colors to achieve a look similar to that of a silk-screened poster.</string>
+			<key>name</key>
+			<string>Color Posterize</string>
+			<key>resourceName</key>
+			<string>CIColorPosterize</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string></string>
+			<key>name</key>
+			<string>Color Tracking Area Mean Filter</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string></string>
+			<key>name</key>
+			<string>Color Tracking Centroid Filter</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string></string>
+			<key>name</key>
+			<string>Color Tracking Composite Filter</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>Color Tracking Mask Creation Filter</string>
+			</dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string></string>
+			<key>name</key>
+			<string>Color Tracking Mask Creation Filter</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>Color Tracking Mask Tracking Filter</string>
+			</dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string></string>
+			<key>name</key>
+			<string>Color Tracking Mask Tracking Filter</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>ColorPencil.qtz</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>QCFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>/System/Library/Compositions/ColorPencil.qtz</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>ColorPencil.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/ColorPencil.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>ColorShifting.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Simulates a comic book drawing by outlining edges and applying a color halftone effect.</string>
+			<key>name</key>
+			<string>Comic Effect</string>
+			<key>resourceName</key>
+			<string>CIComicEffect</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>ComicBook.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/ComicBook.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>&lt;img src="Blank Composition.tiff" width="50" height="50" /&gt;		
+&lt;h4&gt;Blank Composition&lt;/h4&gt;
+&lt;p&gt;A template that creates a blank composition.&lt;/p&gt;</string>
+			<key>name</key>
+			<string>compositing.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Compound Eye.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Compound Eye.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Concert.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Concert.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Adjust the image contrast (including negative contrast)</string>
+			<key>name</key>
+			<string>Contrast</string>
+			<key>resourceName</key>
+			<string>Contrast</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Geometry Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Applies a crop to an image. The size and shape of the cropped image depend on the rectangle you specify.</string>
+			<key>name</key>
+			<string>Crop</string>
+			<key>resourceName</key>
+			<string>CICrop</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates polygon-shaped color blocks by aggregating source pixel-color values.</string>
+			<key>name</key>
+			<string>Crystallize</string>
+			<key>resourceName</key>
+			<string>CICrystallize</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Crystallize.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Crystallize.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Cube Map.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Cube Map.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Delay.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Delay.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Dent.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Dent.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Dinterlace test Vade.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Dinterlace test Vade.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>qcFX. Enable / disable Red Green and Blue channels</string>
+			<key>name</key>
+			<string>Disable RGB.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Disable RGB.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Blur</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Smooths or sharpens an image using a disc-shaped convolution kernel.</string>
+			<key>name</key>
+			<string>Disc Blur</string>
+			<key>resourceName</key>
+			<string>CIDiscBlur</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Applies the grayscale values of the second image to the first image. The output image has a texture defined by the grayscale values.</string>
+			<key>name</key>
+			<string>Displacement Distortion</string>
+			<key>resourceName</key>
+			<string>CIDisplacementDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Halftone Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Simulates the dot patterns of a halftone screen.</string>
+			<key>name</key>
+			<string>Dot Screen</string>
+			<key>resourceName</key>
+			<string>CIDotScreen</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Dot Screen.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Dot Screen.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>2 color duotone: where the image is lighter than the passed range it adopts the high color.  Where the image is darker than the passed range, it adopts the low color</string>
+			<key>name</key>
+			<string>Duotone- 2 color</string>
+			<key>resourceName</key>
+			<string>TwoColorDuotone</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Simple duotone- if the image is brighter than the range, it becomes white.  If it's darker, it becomes black.</string>
+			<key>name</key>
+			<string>Duotone- BW</string>
+			<key>resourceName</key>
+			<string>BWDuotone</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>EDGE CAM.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/EDGE CAM.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Edge Overlay.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Edge Overlay.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a stylized black-and-white rendition of an image that looks similar to a woodblock cutout.</string>
+			<key>name</key>
+			<string>Edge Work</string>
+			<key>resourceName</key>
+			<string>CIEdgeWork</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>edgeBlend 2048 LD.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/edgeBlend 2048 LD.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Finds all edges in an image and displays them in color.</string>
+			<key>name</key>
+			<string>Edges</string>
+			<key>resourceName</key>
+			<string>CIEdges</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a tiled image from a source image by applying an 8-way reflected symmetry.</string>
+			<key>name</key>
+			<string>Eightfold Reflected Tile</string>
+			<key>resourceName</key>
+			<string>CIEightfoldReflectedTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Adjusts the exposure setting for an image similar to the way you control exposure for a camera when you change the F-stop.</string>
+			<key>name</key>
+			<string>Exposure Adjust</string>
+			<key>resourceName</key>
+			<string>CIExposureAdjust</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Exposure Adjust.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Exposure Adjust.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Fades an image to black</string>
+			<key>name</key>
+			<string>Fade To Black</string>
+			<key>resourceName</key>
+			<string>FadeToBlack</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Maps luminance to a color ramp of two colors. False color is often used to process astronomical and other scientific data, such as ultraviolet and x-ray images.</string>
+			<key>name</key>
+			<string>False Color</string>
+			<key>resourceName</key>
+			<string>CIFalseColor</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>False Color.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/False Color.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Film Stock.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Film Stock.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>FishEye.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/FishEye.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+				<string>Geometry Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Flip the image horizontally</string>
+			<key>name</key>
+			<string>Flip H</string>
+			<key>resourceName</key>
+			<string>FlipH</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+				<string>Geometry Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Flip the image vertically</string>
+			<key>name</key>
+			<string>Flip V</string>
+			<key>resourceName</key>
+			<string>FlipV</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Flip-Flop.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Flip-Flop.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a tiled image from a source image by applying a 4-way reflected symmetry.</string>
+			<key>name</key>
+			<string>Fourfold Reflected Tile</string>
+			<key>resourceName</key>
+			<string>CIFourfoldReflectedTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a tiled image from a source image by rotating the source at increments of 90 degrees.</string>
+			<key>name</key>
+			<string>Fourfold Rotated Tile</string>
+			<key>resourceName</key>
+			<string>CIFourfoldRotatedTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a tiled image from a source image by applying 4 translation operations.</string>
+			<key>name</key>
+			<string>Fourfold Translated Tile</string>
+			<key>resourceName</key>
+			<string>CIFourfoldTranslatedTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Geometry Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Horizontal and vertical hold/offset controls</string>
+			<key>name</key>
+			<string>FrameHold-Manual</string>
+			<key>resourceName</key>
+			<string>FrameHoldManual</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>qcFX. Freezeframe effect with mix control.</string>
+			<key>name</key>
+			<string>Freeze Frame.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Freeze Frame.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Adjusts midtone brightness. This filter is typically used to compensate for nonlinear effects of displays. Adjusting the gamma effectively changes the slope of the transition between black and white.</string>
+			<key>name</key>
+			<string>Gamma Adjust</string>
+			<key>resourceName</key>
+			<string>CIGammaAdjust</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Gamma Adjust.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Gamma Adjust.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Blur</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Spreads source pixels by an amount specified by a Gaussian distribution.</string>
+			<key>name</key>
+			<string>Gaussian Blur</string>
+			<key>resourceName</key>
+			<string>CIGaussianBlur</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Distorts an image by applying a glass-like texture. The raised portions of the output image are the result of applying a texture map.</string>
+			<key>name</key>
+			<string>Glass Distortion</string>
+			<key>resourceName</key>
+			<string>CIGlassDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates a lozenge-shaped lens and distorts the portion of the image over which the lens is placed.</string>
+			<key>name</key>
+			<string>Glass Lozenge</string>
+			<key>resourceName</key>
+			<string>CIGlassLozenge</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a tiled image from a source image by translating and smearing the image.</string>
+			<key>name</key>
+			<string>Glide Reflected Tile</string>
+			<key>resourceName</key>
+			<string>CIGlideReflectedTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Dulls the highlights of an image.</string>
+			<key>name</key>
+			<string>Gloom</string>
+			<key>resourceName</key>
+			<string>CIGloom</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Glow.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Glow.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Halftone Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Simulates the hatched pattern of a halftone screen.</string>
+			<key>name</key>
+			<string>Hatched Screen</string>
+			<key>resourceName</key>
+			<string>CIHatchedScreen</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a continuous three-dimensional, loft-shaped height field from a grayscale mask. The white values of the mask define those pixels that are inside the height field while the black values define those pixels that are outside. The field varies smoothly and continuously inside the mask, reaching the value 0 at the edge of the mask. You can use this filter with the CIShadedMaterial filter to produce extremely realistic shaded objects.</string>
+			<key>name</key>
+			<string>Height Field From Mask</string>
+			<key>resourceName</key>
+			<string>CIHeightFieldFromMask</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Displays an image as colored hexagons whose color is an average of the pixels they replace.</string>
+			<key>name</key>
+			<string>Hexagonal Pixellate</string>
+			<key>resourceName</key>
+			<string>CIHexagonalPixellate</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates a circular area that pushes the image pixels outward, distorting those pixels closest to the circle the most.</string>
+			<key>name</key>
+			<string>Hole Distortion</string>
+			<key>resourceName</key>
+			<string>CIHoleDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>HSL Chroma Mask.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/HSL Chroma Mask.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>HSL Edge Overlay.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/HSL Edge Overlay.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Changes the overall hue, or tint, of the source pixels.</string>
+			<key>name</key>
+			<string>Hue Adjust</string>
+			<key>resourceName</key>
+			<string>CIHueAdjust</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Crop (No Resizing)	: Crop the input image to the target size. If the image is smaller than the target you will see the background color underneath.
+Stretch			: Stretch the image to fill the target size.
+Fit				: Fit the image within the target size.  This will maintain the aspect ratio of the input image.
+Fit Over Color 		: Fit the image within the target size and place it over the background color.
+Fill				: Scale the image to fill the target size.  This will most likely produce an image which is larger than the target, but is very useful when resizing.
+Fill And Crop		: Scale the image to fill the target size and then crop it.</string>
+			<key>name</key>
+			<string>Image Resizer.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Image Resizer.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Impossible Tunnel.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Impossible Tunnel.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Toneburst</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>qcFX. Maps input onto surface of multiple cubes</string>
+			<key>name</key>
+			<string>Iterator Cube.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Iterator Cube.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Toneburst</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>VDMX qcFX. Maps input onto surface of multiple cylinders</string>
+			<key>name</key>
+			<string>Iterator Cylinder.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Iterator Cylinder.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Toneburst</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>VDMX qcFX. Maps input onto surface of multiple spheres</string>
+			<key>name</key>
+			<string>Iterator Sphere.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Iterator Sphere.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Kaleidescope.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Kaleidescope.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a kaleidoscopic image from a source image by applying 12-way symmetry.</string>
+			<key>name</key>
+			<string>Kaleidoscope</string>
+			<key>resourceName</key>
+			<string>CIKaleidoscope</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>Layer 2</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>FlipH</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>XYZoom</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>center</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.60526317358016968</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.18421052396297455</real>
+								</dict>
+							</dict>
+							<key>levelX</key>
+							<dict>
+								<key>val</key>
+								<real>0.10288065671920776</real>
+							</dict>
+							<key>levelY</key>
+							<dict>
+								<key>val</key>
+								<real>0.10288065671920776</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>LayerPosition</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>center</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.59217870235443115</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.64760363101959229</real>
+								</dict>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>CICrop</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>inputRectangle</key>
+							<dict>
+								<key>B</key>
+								<dict>
+									<key>val</key>
+									<real>0.0</real>
+								</dict>
+								<key>L</key>
+								<dict>
+									<key>val</key>
+									<real>0.29746836423873901</real>
+								</dict>
+								<key>R</key>
+								<dict>
+									<key>minEnv</key>
+									<real>0.29746836423873901</real>
+									<key>val</key>
+									<real>1</real>
+								</dict>
+								<key>T</key>
+								<dict>
+									<key>val</key>
+									<real>1</real>
+								</dict>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2012-05-31 00:18:23 +0200on layer: Layer 2 in project: DDO NORDVILLE.vdmx5</string>
+			<key>name</key>
+			<string>Layer 2</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>Layer 3</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>FlipH</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>XYZoom</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>center</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.60526317358016968</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.18421052396297455</real>
+								</dict>
+							</dict>
+							<key>levelX</key>
+							<dict>
+								<key>val</key>
+								<real>0.057946838438510895</real>
+							</dict>
+							<key>levelY</key>
+							<dict>
+								<key>val</key>
+								<real>0.057946838438510895</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>LayerPosition</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>center</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.23463688790798187</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.5207291841506958</real>
+								</dict>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2012-05-31 00:18:54 +0200on layer: Layer 3 in project: DDO NORDVILLE.vdmx5</string>
+			<key>name</key>
+			<string>Layer 3</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>Layer 4</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>FlipH</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>colps</key>
+						<true/>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>LayerPosition</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>center</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.56372207403182983</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.50279331207275391</real>
+								</dict>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2012-05-31 00:19:03 +0200on layer: Layer 4 in project: DDO NORDVILLE.vdmx5</string>
+			<key>name</key>
+			<string>Layer 4</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Take video from a tap source and apply it to the alpha channel- this effect resizes the mask image to fit your source!  Resembles a lumakey.</string>
+			<key>name</key>
+			<string>Layer Mask</string>
+			<key>resourceName</key>
+			<string>LayerMask</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+				<string>Geometry Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Adjust the image's offset within its bounds</string>
+			<key>name</key>
+			<string>Layer Position</string>
+			<key>resourceName</key>
+			<string>LayerPosition</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>LightTunnel.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/LightTunnel.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates a sketch that outlines the edges of an image in black, leaving the non-outlined portions of the image transparent. The result has alpha and is rendered in black, so it won't look like much until you render it over another image using source over compositing.</string>
+			<key>name</key>
+			<string>Line Overlay</string>
+			<key>resourceName</key>
+			<string>CILineOverlay</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Line Overlay.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Line Overlay.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Halftone Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Simulates the line pattern of a halftone screen.</string>
+			<key>name</key>
+			<string>Line Screen</string>
+			<key>resourceName</key>
+			<string>CILineScreen</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Line Screen.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Line Screen.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>&lt;img src="Blank Composition.tiff" width="50" height="50" /&gt;		
+&lt;h4&gt;Blank Composition&lt;/h4&gt;
+&lt;p&gt;A template that creates a blank composition.&lt;/p&gt;</string>
+			<key>name</key>
+			<string>lines.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>&lt;img src="Blank Composition.tiff" width="50" height="50" /&gt;		
+&lt;h4&gt;Blank Composition&lt;/h4&gt;
+&lt;p&gt;A template that creates a blank composition.&lt;/p&gt;</string>
+			<key>name</key>
+			<string>loopInSpace.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Converts an image to grayscale using the maximum of the three color components.</string>
+			<key>name</key>
+			<string>Maximum Component</string>
+			<key>resourceName</key>
+			<string>CIMaximumComponent</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Blur</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Computes the median value for a group of neighboring pixels and replaces each pixel value with the median. The effect is to reduce noise.</string>
+			<key>name</key>
+			<string>Median</string>
+			<key>resourceName</key>
+			<string>CIMedianFilter</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>Meta Cam</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>CIColorControls</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>inputBrightness</key>
+							<dict>
+								<key>val</key>
+								<real>0.5</real>
+							</dict>
+							<key>inputContrast</key>
+							<dict>
+								<key>val</key>
+								<real>0.40322580933570862</real>
+							</dict>
+							<key>inputSaturation</key>
+							<dict>
+								<key>val</key>
+								<real>0.40000000000000002</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>CIGaussianBlur</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>inputRadius</key>
+							<dict>
+								<key>val</key>
+								<real>0.012903225608170033</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Src Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>CICrop</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>inputRectangle</key>
+							<dict>
+								<key>B</key>
+								<dict>
+									<key>val</key>
+									<real>0.0</real>
+								</dict>
+								<key>L</key>
+								<dict>
+									<key>maxEnv</key>
+									<real>0.74938118811881194</real>
+									<key>val</key>
+									<real>0.29207921028137207</real>
+								</dict>
+								<key>R</key>
+								<dict>
+									<key>minEnv</key>
+									<real>0.29207921028137207</real>
+									<key>val</key>
+									<real>0.74938118811881194</real>
+								</dict>
+								<key>T</key>
+								<dict>
+									<key>val</key>
+									<real>1</real>
+								</dict>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2012-05-16 16:54:05 +0200on layer: Layer 1 in project: meta.vdmx5</string>
+			<key>name</key>
+			<string>Meta Cam</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Toneburst</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>qcFX. Meta-image tile effect</string>
+			<key>name</key>
+			<string>Meta Image.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Meta Image.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Converts an image to grayscale using the minimum of the three color components.</string>
+			<key>name</key>
+			<string>Minimum Component</string>
+			<key>resourceName</key>
+			<string>CIMinimumComponent</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Mirror.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Mirror.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>mirroring_v2.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Monochrome.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Monochrome.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Blur</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Blurs an image to simulate the effect of using a camera that moves a specified angle and distance while capturing the image.</string>
+			<key>name</key>
+			<string>Motion Blur</string>
+			<key>resourceName</key>
+			<string>CIMotionBlur</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Motion Blur.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Motion Blur.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>&lt;img src="Blank Composition.tiff" width="50" height="50" /&gt;		
+&lt;h4&gt;Blank Composition&lt;/h4&gt;
+&lt;p&gt;A template that creates a blank composition.&lt;/p&gt;</string>
+			<key>name</key>
+			<string>multidelay.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Neon.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Neon.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Blur</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Reduces noise using a threshold value to define what is considered noise. Small changes in luminance below that value are considered noise and get a noise reduction treatment, which is a local blur. Changes above the threshold value are considered edges, so they are sharpened.</string>
+			<key>name</key>
+			<string>Noise Reduction</string>
+			<key>resourceName</key>
+			<string>CINoiseReduction</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>&lt;img src="Blank Composition.tiff" width="50" height="50" /&gt;		
+&lt;h4&gt;Blank Composition&lt;/h4&gt;
+&lt;p&gt;A template that creates a blank composition.&lt;/p&gt;</string>
+			<key>name</key>
+			<string>noise.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Old Film.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Old Film.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Segments an image, applying any specified scaling and rotation, and then assembles the image again to give an op art appearance.</string>
+			<key>name</key>
+			<string>Op Tile</string>
+			<key>resourceName</key>
+			<string>CIOpTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Warps an image by reflecting it in a parallelogram, and then tiles the result.</string>
+			<key>name</key>
+			<string>Parallelogram Tile</string>
+			<key>resourceName</key>
+			<string>CIParallelogramTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Applies a perspective transform to an image and then tiles the result.</string>
+			<key>name</key>
+			<string>Perspective Tile</string>
+			<key>resourceName</key>
+			<string>CIPerspectiveTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Geometry Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Alters the geometry of an image to simulate the observer changing viewing position. You can use the perspective filter to skew an image.</string>
+			<key>name</key>
+			<string>Perspective Transform</string>
+			<key>resourceName</key>
+			<string>CIPerspectiveTransform</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates a rectangular-shaped area that pinches source pixels inward, distorting those pixels closest to the rectangle the most.</string>
+			<key>name</key>
+			<string>Pinch Distortion</string>
+			<key>resourceName</key>
+			<string>CIPinchDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Pinch.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Pinch.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Makes an image blocky.</string>
+			<key>name</key>
+			<string>Pixellate</string>
+			<key>resourceName</key>
+			<string>CIPixellate</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Pixellate.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Pixellate.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Renders the source image in a pointillistic style.</string>
+			<key>name</key>
+			<string>Pointillize</string>
+			<key>resourceName</key>
+			<string>CIPointillize</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Pointillize.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Pointillize.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>PopArt.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/PopArt.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Posterize.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Posterize.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>randomDelay_v2.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Reflection.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Reflection.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>RGB Delay.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/RGB Delay.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Indpenendent R, G, and B blurs</string>
+			<key>name</key>
+			<string>RGB Trails</string>
+			<key>resourceName</key>
+			<string>RGB_Trails</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Round Border.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Round Border.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Maps the colors of an image to various shades of brown.</string>
+			<key>name</key>
+			<string>Sepia Tone</string>
+			<key>resourceName</key>
+			<string>CISepiaTone</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Sepia.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Sepia.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a shaded image from a height field. The height field is defined to have greater heights with lighter shades, and lesser heights (lower areas) with darker shades. You can combine this filter with the CIHeightFieldFromMask filter to produce quick shadings of masks, such as text.</string>
+			<key>name</key>
+			<string>Shaded Material</string>
+			<key>resourceName</key>
+			<string>CIShadedMaterial</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Shape Mask.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Shape Mask.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Sharpen</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Increases image detail by sharpening. It operates on the luminance of the image; the chrominance of the pixels remains unaffected.</string>
+			<key>name</key>
+			<string>Sharpen Luminance</string>
+			<key>resourceName</key>
+			<string>CISharpenLuminance</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Utility</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Sharpen.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Sharpen.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a tiled image from a source image by applying a 6-way reflected symmetry.</string>
+			<key>name</key>
+			<string>Sixfold Reflected Tile</string>
+			<key>resourceName</key>
+			<string>CISixfoldReflectedTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a tiled image from a source image by rotating the source at increments of 60 degrees.</string>
+			<key>name</key>
+			<string>Sixfold Rotated Tile</string>
+			<key>resourceName</key>
+			<string>CISixfoldRotatedTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>&lt;img src="Blank Composition.tiff" width="50" height="50" /&gt;		
+&lt;h4&gt;Blank Composition&lt;/h4&gt;
+&lt;p&gt;A template that creates a blank composition.&lt;/p&gt;</string>
+			<key>name</key>
+			<string>slowerTime.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>qcFX. Stretches and blends pixels. Vertical and Horizontal modes.</string>
+			<key>name</key>
+			<string>Smear Mix.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Smear Mix.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Sphere Spinner.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Sphere Spinner.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Replaces one ore more color ranges with spot colors.</string>
+			<key>name</key>
+			<string>Spot Color</string>
+			<key>resourceName</key>
+			<string>CISpotColor</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Squeeze.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Squeeze.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>&lt;img src="Blank Composition.tiff" width="50" height="50" /&gt;		
+&lt;h4&gt;Blank Composition&lt;/h4&gt;
+&lt;p&gt;A template that creates a blank composition.&lt;/p&gt;</string>
+			<key>name</key>
+			<string>stopMo.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Stretch.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Stretch.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Rapidly switches between the inverse and original of the input image.</string>
+			<key>name</key>
+			<string>Strobe</string>
+			<key>resourceName</key>
+			<string>Strobe</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>qcFX. Flexible 'smear' effect</string>
+			<key>name</key>
+			<string>Super Smear.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Super Smear.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>textAppear.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>ThermalCamera.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/ThermalCamera.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Toneburst</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Posterize effect.</string>
+			<key>name</key>
+			<string>Threshold Posterize.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Threshold Posterize.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Tolalu GLSL Loïs.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Tolalu GLSL Loïs.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Creates a torus-shaped lens and distorts the portion of the image over which the lens is placed.</string>
+			<key>name</key>
+			<string>Torus Lens Distortion</string>
+			<key>resourceName</key>
+			<string>CITorusLensDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Vidvox</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Trace.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Trace.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>&lt;img src="Blank Composition.tiff" width="50" height="50" /&gt;		
+&lt;h4&gt;Blank Composition&lt;/h4&gt;
+&lt;p&gt;A template that creates a blank composition.&lt;/p&gt;</string>
+			<key>name</key>
+			<string>trace.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Tracer.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Tracer.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>trail+resize.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>trail.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Travail sur masque.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Travail sur masque.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Maps a triangular portion of image to a triangular area and then tiles the result.</string>
+			<key>name</key>
+			<string>Triangle Tile</string>
+			<key>resourceName</key>
+			<string>CITriangleTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Tile Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Produces a tiled image from a source image by applying a 12-way reflected symmetry.</string>
+			<key>name</key>
+			<string>Twelvefold Reflected Tile</string>
+			<key>resourceName</key>
+			<string>CITwelvefoldReflectedTile</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Rotates pixels around a point to give a twirling effect. You can specify the number of rotations as well as the center and radius of the effect.</string>
+			<key>name</key>
+			<string>Twirl Distortion</string>
+			<key>resourceName</key>
+			<string>CITwirlDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Twirl.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Twirl.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Sharpen</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Increases the contrast of the edges between pixels of different colors in an image.</string>
+			<key>name</key>
+			<string>Unsharp Mask</string>
+			<key>resourceName</key>
+			<string>CIUnsharpMask</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Rotates pixels around a point to simulate a vortex. You can specify the number of rotations as well the center and radius of the effect. </string>
+			<key>name</key>
+			<string>Vortex Distortion</string>
+			<key>resourceName</key>
+			<string>CIVortexDistortion</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Brightness and contrast controls in one effect</string>
+			<key>name</key>
+			<string>VVColorControls</string>
+			<key>resourceName</key>
+			<string>VVColorControls</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Blur</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Feedback-based motion blur</string>
+			<key>name</key>
+			<string>VVMotion Blur</string>
+			<key>resourceName</key>
+			<string>MotionBlur</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>assetSnapDict</key>
+			<dict>
+				<key>chainName</key>
+				<string>WARP ET COLOR</string>
+				<key>itemArray</key>
+				<array>
+					<dict>
+						<key>className</key>
+						<string>QCFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>/Users/lois/Library/Application Support/VDMX/qcFX/WARP VDMX.qtz</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>Bottom_Left</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.076962664723396301</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.024698622524738312</real>
+								</dict>
+							</dict>
+							<key>Bottom_Right</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.94413405656814575</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.011173184029757977</real>
+								</dict>
+							</dict>
+							<key>Grid_Resolution</key>
+							<dict>
+								<key>PUB</key>
+								<dict>
+									<key>floatPosReceiver</key>
+									<dict>
+										<key>scal</key>
+										<false/>
+										<key>src</key>
+										<string>/&lt;No Source Chosen&gt;</string>
+										<key>useNFX</key>
+										<false/>
+									</dict>
+									<key>indexReceiver</key>
+									<dict>
+										<key>norm</key>
+										<false/>
+										<key>scal</key>
+										<false/>
+										<key>src</key>
+										<string>/&lt;No Source Chosen&gt;</string>
+										<key>useNFX</key>
+										<false/>
+									</dict>
+									<key>selectedItemName</key>
+									<string>15</string>
+								</dict>
+							</dict>
+							<key>Radius</key>
+							<dict>
+								<key>val</key>
+								<real>0.02880658395588398</real>
+							</dict>
+							<key>Show_test_image</key>
+							<dict>
+								<key>val</key>
+								<false/>
+							</dict>
+							<key>Top_Left</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.054616298526525497</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.74728018045425415</real>
+								</dict>
+							</dict>
+							<key>Top_Right</key>
+							<dict>
+								<key>X</key>
+								<dict>
+									<key>val</key>
+									<real>0.97206705808639526</real>
+								</dict>
+								<key>Y</key>
+								<dict>
+									<key>val</key>
+									<real>0.74728018045425415</real>
+								</dict>
+							</dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+					<dict>
+						<key>className</key>
+						<string>CIFXObject</string>
+						<key>compModeButton</key>
+						<dict>
+							<key>floatPosReceiver</key>
+							<dict>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>indexReceiver</key>
+							<dict>
+								<key>norm</key>
+								<false/>
+								<key>scal</key>
+								<false/>
+								<key>src</key>
+								<string>/&lt;No Source Chosen&gt;</string>
+								<key>useNFX</key>
+								<false/>
+							</dict>
+							<key>selectedItemName</key>
+							<string>OpenGL- Over</string>
+						</dict>
+						<key>enableButton</key>
+						<dict>
+							<key>val</key>
+							<true/>
+						</dict>
+						<key>resourcePath</key>
+						<string>VVColorControls</string>
+						<key>uiBuilder</key>
+						<dict>
+							<key>VVGridSize</key>
+							<string>{-1, -1}</string>
+							<key>brightness</key>
+							<dict>
+								<key>val</key>
+								<real>0.61522632837295532</real>
+							</dict>
+							<key>contrast</key>
+							<dict>
+								<key>val</key>
+								<real>0.64300411939620972</real>
+							</dict>
+						</dict>
+						<key>wetDrySlider</key>
+						<dict>
+							<key>val</key>
+							<real>1</real>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+			<key>deletable</key>
+			<true/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Created on 2011-05-04 10:29:37 +0200on layer: Layer 1 in project: DDO.vdmx5</string>
+			<key>name</key>
+			<string>WARP ET COLOR</string>
+			<key>type</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>4 point quad warper</string>
+			<key>name</key>
+			<string>WARP VDMX SPRITE.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Misc. QC</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>4 point quad warper</string>
+			<key>name</key>
+			<string>WARP VDMX.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/WARP VDMX.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Color Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Adjusts the reference white point for an image and maps all colors in the source using the new reference.</string>
+			<key>name</key>
+			<string>White Point Adjust</string>
+			<key>resourceName</key>
+			<string>CIWhitePointAdjust</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+				<string>Geometry Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Independent X and Y zoom effect</string>
+			<key>name</key>
+			<string>X/Y Zoom (VV)</string>
+			<key>resourceName</key>
+			<string>XYZoom</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>XRay.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/XRay.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Distortion Effect</string>
+				<string>Geometry Adjustment</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Simple zooming effect</string>
+			<key>name</key>
+			<string>Zoom (VV)</string>
+			<key>resourceName</key>
+			<string>VVZoom</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Blur</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>Simulates the effect of zooming the camera while capturing the image.</string>
+			<key>name</key>
+			<string>Zoom Blur</string>
+			<key>resourceName</key>
+			<string>CIZoomBlur</string>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Stylize</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>name</key>
+			<string>Zoom Blur.qtz</string>
+			<key>resourceName</key>
+			<string>/System/Library/Compositions/Zoom Blur.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>categories</key>
+			<array>
+				<string>Toneburst</string>
+			</array>
+			<key>deletable</key>
+			<false/>
+			<key>enabled</key>
+			<true/>
+			<key>fxDescription</key>
+			<string>qcFX. Zoom echo effect.</string>
+			<key>name</key>
+			<string>Zoom Echo.qtz</string>
+			<key>resourceName</key>
+			<string>/Users/lois/Library/Application Support/VDMX/qcFX/Zoom Echo.qtz</string>
+			<key>type</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

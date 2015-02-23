@@ -1,0 +1,1973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Aperçu-20110420142608617.pctdossier.pdf (page 1 sur 14)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Aperçu-CAM PS3 DDO CHAISE HUGUES</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-01_SCENE_1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-3D_Updated</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Application Support</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Bureau</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-CAM PS3 DDO CHAISE HUGUES</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-DDO Project</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-DDO_MONTBELIARD</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-DOCUMENTS</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Documentation</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Dropbox</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-KapturebyPlastikmanandLiine_v2.0.1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-LoopPapillonBretigny</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-M42_TECHNOLOGIE</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Mac Pro de L'ange Carasuelo</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-MacBook Pro de L'Ange Carasuelo</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Photos Plateau PCT</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Public</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-REGIE PCT 08_12 Project</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Recherche dans « Ce Mac »</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Recup</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Travail</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-VDMX</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-VDMX 2</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-VDMX5, b8.0.5.1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-VIDEO DDOnorville</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-VPT6_r09_osx3</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Video REGIE DDO</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-Woodpecker</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-XYZT au Lux de Valence (1)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-XYZTv2-fiche tech v1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-budget régie vidéo</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-collisionDiscreteTex</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-lois</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Finder-qcFX</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-26% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-28% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-43% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-56% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-57% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-65% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-67% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-69% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-7% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-81% de 1 fichier - Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-Avec vue</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-Erreur de chargement de la page</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-Google Docs</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-Informations sur la page - http://three.flash-gear.com/draw/drw.php?f=1&amp;id=214058&amp;a=824900952&amp;b=1100583169</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-Max 6 'Little Things' - Hopes « Cycling '74 Forums</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-Ouverture de DLight-manuel.pdf</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-The page you were looking for doesn’t exist (404)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-Téléchargements</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-VDMX5 · VIDVOX</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-VIDVOX Forums • Search</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-Voila Mail : Email gratuit de 5Go</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-calculer le plus petit volume de rangement - Recherche Google</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-drw.php (Objet application/x-shockwave-flash)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>160</integer>
+		<key>lPad</key>
+		<integer>120</integer>
+		<key>lastEnableDate</key>
+		<date>2012-05-17T18:50:47Z</date>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>120</integer>
+		<key>tPad</key>
+		<integer>60</integer>
+	</dict>
+	<key>Firefox-flash effect max/MSP/Jitter for TLLSLO - Vidéo Dailymotion</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-flash into max msp - Recherche Google</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-flash-gear.com: draw</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-flashserver - communication between Max/MSP and Flashx</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-flashserver_screenshot.jpg (Image JPEG, 439x658 pixels)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-google docs - Recherche Google</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-live drawing w jitter &amp; wacom tablet « Cycling '74 Forums</key>
+	<dict>
+		<key>bPad</key>
+		<integer>340</integer>
+		<key>lPad</key>
+		<integer>428</integer>
+		<key>limitSize</key>
+		<string>{1440, 900}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>441</integer>
+		<key>tPad</key>
+		<integer>120</integer>
+	</dict>
+	<key>Firefox-logiciel vjing pc - Recherche Google</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Firefox-untitled</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Live-DDO  [DDO]</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Live-DDO NORDVILLE  [DDO]</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Live-Enregistrer</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Live-Sans titre</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Actualités Apple — RSS</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Boîte de réception</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Boîte de réception (13 concordances ont été trouvées)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Boîte de réception (2132 messages)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Boîte de réception (2168 messages)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Boîte de réception (2577 messages)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Boîte de réception — Gmail (2689 messages)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Boîte de réception — Gmail (2825 messages)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Mail-Spam — Gmail</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>MaxMSP-MIDI Track to OSC.amxd (unlocked presentation)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>MaxMSP-SPAT NODES.amxd (unlocked presentation)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>MaxMSP-xbendin.maxhelp</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>OpenOffice.org-budget M42 video.ods - OpenOffice.org Calc</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Processing-ARDroneForP5_Sample | Processing 1.5.1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Processing-CarnivoreClient | Processing 1.5.1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Processing-ContinuousLines | Processing 1.5.1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Processing-ProcessingToPHP | Processing 1.5.1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Préférences Système-LCD couleur</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Préférences Système-Moniteur VGA</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Préférences Système-Préférences Système</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Quartz Composer-EDGE CAM - Editor</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>Quartz Composer-EDGE CAM - Viewer</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>QuickTime Player 7-Général</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>QuickTime Player 7-Inspecteur</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>QuickTime Player 7-Sans titre – Inspecteur</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>QuickTime Player 7-Welcome to QuickTime – Inspecteur</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Image Cropper 1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 1 Source</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 1 Src: 010_Usine</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 1 Src: 030_WernerSeul</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 1 Src: 100_Hopital01</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 1 Src: 130_Chignon</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 1 Src: 150_Hopital03</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 1 Src: 170_Espagne01</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 1 Src: 175_Espagne02</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 2 Source</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 2 Src: Chaise Hugues</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 2 Src: Jeune fille</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 3 Source</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 3 Src: ADVC-55</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 4 Source</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Layer 4 Src: macam #0: Sony HD Eye for PS3 (SLEH 00201)</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Media Bin 2</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Output Options</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-Syphon Output 1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-TCM 1</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-TCM 2</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-TCM 3</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-TCM 4</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VDMX5-VDMX5 Preferences</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VLC-Lecteur multimédia VLC</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>VLC-V Pour Vendetta.avi</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>iTunes-iTunes</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>iTunes-Égaliseur</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>loginwindow-Forcer des applications à quitter </key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>tapemovie-1.41-Status</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>tapemovie-1.41-instruments</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>tapemovie-1.41-tapemovie</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+	<key>tapemovie-1.41-tm_viscaedit</key>
+	<dict>
+		<key>bPad</key>
+		<integer>0</integer>
+		<key>lPad</key>
+		<integer>0</integer>
+		<key>limitSize</key>
+		<string>{640, 480}</string>
+		<key>limitSizeFlag</key>
+		<true/>
+		<key>rPad</key>
+		<integer>0</integer>
+		<key>tPad</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>
