@@ -1,0 +1,6 @@
+/vdmx /lfo.4/play 0;
+/vdmx /lfo.4/time 0;
+/vdmx /85 1;
+100;
+/vdmx /patchtime 0.;
+/vdmx /rotate 0.;

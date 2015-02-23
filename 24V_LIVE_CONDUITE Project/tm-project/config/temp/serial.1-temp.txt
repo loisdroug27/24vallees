@@ -1,0 +1,1 @@
+/serial.1/sw 1;/serial.1/viscamode 0;/serial.1/print 1;/serial.1/port <none>;/serial.1/rate 15;/serial.1/baud 9600;/serial.1/databits 8;/serial.1/stopbits 1;/serial.1/parity no;/serial.1/dtr 0;/serial.1/chunk 0;

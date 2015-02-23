@@ -1,0 +1,8 @@
+/vdmx /lfo/21 1;
+/vdmx /21 1;
+100;
+/vdmx /lfo.2/loopmode Once;
+/vdmx /lfo.2/play 0;
+/vdmx /lfo.2/direction 0;
+/vdmx /lfo.2/time 0;
+/vdmx /lfo.2/rate 1;

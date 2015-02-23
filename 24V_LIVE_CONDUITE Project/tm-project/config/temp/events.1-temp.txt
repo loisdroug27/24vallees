@@ -1,0 +1,6 @@
+/events.1/interval 0;
+/events.1/sw 1;
+/events.1/subfolder <none>;
+/events.1/type tapemovie;
+/events.1/oscsendname /meta-player;
+/events.1/localsend 0;
