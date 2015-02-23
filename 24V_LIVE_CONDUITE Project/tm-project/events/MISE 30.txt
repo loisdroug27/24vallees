@@ -1,0 +1,17 @@
+/vdmx /30 1;
+200;
+/vdmx /lfo.1/play 0;
+/vdmx /lfo.2/play 0;
+200;
+/vdmx /lfo/30 1;
+200;
+/vdmx /lfo.1/loopmode Once;
+/vdmx /lfo.1/play 0;
+/vdmx /lfo.1/direction 0;
+/vdmx /lfo.1/time 0;
+/vdmx /lfo.1/rate 1;
+/vdmx /lfo.2/loopmode Once;
+/vdmx /lfo.2/play 0;
+/vdmx /lfo.2/direction 0;
+/vdmx /lfo.2/time 0;
+/vdmx /lfo.2/rate 1;

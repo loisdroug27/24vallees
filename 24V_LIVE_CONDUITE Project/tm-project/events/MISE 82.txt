@@ -1,0 +1,4 @@
+/vdmx /82 1;
+100;
+/vdmx /neon 0.;
+/vdmx /twirl 0.;

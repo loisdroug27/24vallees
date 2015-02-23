@@ -1,0 +1,2 @@
+/vdmx /lfo.2/direction 1;
+/vdmx /lfo.4/direction 1; 
